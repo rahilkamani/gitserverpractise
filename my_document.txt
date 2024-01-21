@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello my name is rahil edited by feature 2 branch
-=======
-hello my name is rahil edited by feature 1
->>>>>>> 3c1a427ecb8b35b6cf7f63af057c623a45c1886f
+hello my name is rahil edited from feature 1
